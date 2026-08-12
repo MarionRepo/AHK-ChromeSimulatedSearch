@@ -6,7 +6,7 @@
 ;type something into search bar (wait 230ms inbetween each letter to simulate real typing)
 ;hit enter
 
-^z:: ;hotkey > Ctrl+z
+^w:: ;hotkey > Ctrl+w
 {
     if WinExist("ahk_exe chrome.exe")
 	{
