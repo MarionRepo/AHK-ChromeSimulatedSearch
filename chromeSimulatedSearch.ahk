@@ -1,3 +1,5 @@
+#Requires AutoHotKey v2.0 ;tells the interpreter, ensures v1 scripts are not accidentally run and cause syntax errors
+
 ;open chrome
 ;wait 500ms
 ;click search bar (mouse down mouse up) -- not needed because ^t autohighlights the search bar when a new tab is opened
