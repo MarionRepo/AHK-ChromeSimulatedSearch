@@ -20,13 +20,13 @@ I mainly made this script to save time and keystrokes to search for things such 
 
 ### What did I use:
 - AutoHotkey v2 (2.0.26 64 bit)
+  - Hotkey (Ctrl+z)
+  - Win Functions
+  - If statement
+  - Loop Parse function
 - VS Code (1.129.0 64 bit)
 - Chrome (151.0.7922.72 64 bit)
 - Windows 11
-- AHK - Hotkey (Ctrl+z)
-- AHK - Win Functions
-- AHK - If statement
-- AHK - Loop Parse function
 
 ### How to use:
 - Install AutoHotkey v2
